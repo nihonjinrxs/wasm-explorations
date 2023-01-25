@@ -1,0 +1,15 @@
+{
+  "name": "exploration",
+  "version": "1.0.0",
+  "description": "Exploring WASM and WAT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Harvey <ryan.b.harvey@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "wat-wasm": "^1.0.43"
+  }
+}
